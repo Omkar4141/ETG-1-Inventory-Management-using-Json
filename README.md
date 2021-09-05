@@ -30,7 +30,7 @@ This was Task 1 given to me in intership at Elite Techno Group.In this project i
 
 # 2) a: Update Product Quantity
 
-
+<img src="https://github.com/Omkar4141/Inventory-Management-using-Json/blob/main/78.png">
 
 # 2) b: Update Product Price
 
